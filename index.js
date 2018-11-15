@@ -2,6 +2,6 @@
 let companyName = 'Scuber';
 
 if (companyName != 'Scuber') {
-  throw TypeError
+  throw new TypeError
 }
   
